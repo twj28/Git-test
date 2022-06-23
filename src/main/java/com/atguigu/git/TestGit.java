@@ -12,7 +12,7 @@ public class TestGit {
         System.out.println("hello,idea git1!");
         System.out.println("hello,idea git2!");
         System.out.println("hello,idea git3!");
-        System.out.println("hello,idea git4!");
+        System.out.println("hello,idea git4!--master");
 
 
     }
