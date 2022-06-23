@@ -13,8 +13,8 @@ public class TestGit {
         System.out.println("hello,idea git2!");
         System.out.println("hello,idea git3!");
         System.out.println("hello,idea git4!--master");
-
         System.out.println("hello,idea git4--hot-fix!");
+        System.out.println("push test");
 
     }
 }
